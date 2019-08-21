@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Heroes get remembered, but legends never die." 
 Use the left arrow to go back!
